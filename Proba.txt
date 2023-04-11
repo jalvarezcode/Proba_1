@@ -1,3 +1,5 @@
 Aquesta és el meu primer fitxer que pujare a git
 
 L'edit per segon cop
+
+Torno a editar per comprovar que se seguir tots els passos per penjar els fitxers a github
