@@ -1,1 +1,3 @@
 Aquesta és el meu primer fitxer que pujare a git
+
+L'edit per segon cop
